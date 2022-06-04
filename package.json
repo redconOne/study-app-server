@@ -1,0 +1,24 @@
+{
+  "name": "study-app-server",
+  "version": "1.0.0",
+  "description": "This is an API Containing my BANKI study stuff",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/redconone/study-app-server.git"
+  },
+  "author": "Ming Lee Ng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/redconone/study-app-server/issues"
+  },
+  "homepage": "https://github.com/redconone/study-app-server#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.1"
+  }
+}

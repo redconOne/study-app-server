@@ -1,0 +1,115 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+:root {
+  --clr-background: #3d343e;
+  --clr-white: #cdd6db;
+  --clr-silver: #b3b6c0;
+  --clr-green: #6ca085;
+  --clr-pine: #4e6866;
+  --clr-red: #de6b66;
+  --clr-maroon: #510400;
+  --clr-faded: #9c7a78;
+  --clr-teal: #607d8b;
+  --clr-keppel: #34a99a;
+  --clr-gold: #d88d00;
+  --clr-orange: #ed9a76;
+}
+
+.checked {
+  background-color: var(--clr-pine);
+}
+
+.danger {
+  color: var(--clr-white);
+  position: relative;
+  top: 25%;
+  left: 40%;
+}
+
+.flag {
+  background-color: var(--clr-gold);
+}
+
+/* .empty {
+  background-color: var(--clr-green);
+} */
+
+.grid div {
+  height: 40px;
+  width: 40px;
+  border: 1px solid black;
+}
+
+.bomb {
+  /* background-color: var(--clr-maroon); */
+  color: white;
+}
+
+.grid {
+  background-color: var(--clr-faded);
+  height: 400px;
+  width: 400px;
+  display: flex;
+  flex-wrap: wrap;
+  cursor: pointer;
+}
+
+.showBomb {
+  background-color: var(--clr-maroon);
+  color: var(--clr-gold);
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  font-size: 2rem;
+}
+
+body {
+  background-color: var(--clr-background);
+  color: var(--clr-white);
+  font-family: 'Fredoka', sans-serif;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin: 0;
+  padding: 0;
+}
+
+.introduction {
+  width: 100%;
+}
+
+.title {
+  font-size: 3rem;
+  width: 100%;
+  text-align: center;
+  padding: 0;
+  margin: 1rem 0 0 0;
+}
+
+.subtitle {
+  font-family: 'Allura', cursive;
+  font-size: 1.5rem;
+  width: 100%;
+  text-align: center;
+  padding: 0;
+  margin: 0;
+}
+
+.myLink {
+  color: var(--clr-keppel);
+  text-decoration: none;
+}
+
+.myLink:hover {
+  color: var(--clr-gold);
+}
+
+.instructions {
+  width: 100%;
+  text-align: center;
+}
