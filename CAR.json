@@ -1,18 +1,18 @@
 {
   "1": {
     "question": "Give me an example of the project or initiative that you started on your own. It can be a non-business one. What prompted you to get started?",
-    "answer": "I actually LOVE starting new projects. As someone that consumes a lot of media I love making products that represent shows or games. I've started projects from an API-> webapp for the StarTrek Space Federation to a webapp that functions as a Pokidex for my kids to enjoy!"
+    "answer": "On one of my earlier group projects concerning APIs we were having difficulty accessing the specific API in the way that we wanted. Many in the group were wanting to move on to a different API that wouldn't have provided the same information, but I ended up taking the intiative to contact the team workin on the API and was able to get guidance. Funnily enough, not only did I get our project working, but the API documentation was changed to cover cases like ours, so they ended up better off for it as well."
   },
   "2": {
-    "question": "Tell me about a time you had to work on several projects at once. How did you handle this?",
-    "answer": ""
+    "question": "Tell me about a time you had to work on several projects at once. How did you handle it?",
+    "answer": "When freelancing its not uncommon to work on numberous client projects simultaneously. I learned early on that it was best to break everything down into sub-tasks and set them to different priorities: low, mid, or high. I also learned to get a solid understanding of expected deadlines, which also factors in to the priority. "
   },
   "3": {
     "question": "Describe a situation in which you felt you had not communicated well enough. What did you do? How did you handle it?",
-    "answer": ""
+    "answer": "A short while ago I was given task to complete, and I provided the requested product I was informed that I hadn't done what was required. I had to start over, asking what information was provided, what I was to do with that data, and then what data I needed to return. Now, to ensure complete understanding, even if I think I know exactly what is being asked of me I always clarify the task at hand."
   },
   "4": {
-    "question": "Tell me about when you had to deal with conflict within your team. How was the conflict solved? How did you handle that? How would you deal with it now?",
+    "question": "Tell me about when you had to deal with conflict within your team. How was the conflict solved? How did you handle that? How would you deal with it now? ",
     "answer": ""
   },
   "5": {
@@ -20,44 +20,44 @@
     "answer": ""
   },
   "6": {
-    "question": "Describe a situation in which you worked digligently on a project and it did not produce the desired results. Why didn't you get the desired results? What did you learn from the experience?",
-    "answer": ""
+    "question": "Describe a situation in which you worked diligently on a project and it did not produce the desired results. Why didn't you get the desired results? What did you learn from the experience?",
+    "answer": "When I first started building webpages I had an unsatisfied client, yet I had built exactly what they had asked for. I scheduled a meeting with them to go over the contract, compare that to the finished product, and recontract some work to get things to the result that they wanted. Because of this I often do mock-ups to ensure the client is completely clear with what they will be receiving as a final product, and haven't encountered any issues since."
   },
   "7": {
     "question": "Give an example of an important project goal you reached and how you achieved it.",
-    "answer": ""
+    "answer": "One of my most important project goals was creating and building my first MERN app. It was a goal from the very start of my programming journey, and it took countless hours of independent research to achieve. This often included reaching out in the tech community and asking for guidance from my mentors. "
   },
   "8": {
     "question": "Describe a situation in which you experienced difficulty in getting others to accept your ideas.",
     "answer": ""
   },
   "9": {
-    "question": "Tell me about a situation when you were responsible for project planning. Did everything go according to plan? If not, then why and what kind of counteractinos did you have to take?",
+    "question": "Tell me about a situation when you were responsible for project planning. Did everything go according to plan? If not, then why and what kind of counteractions did you have to take?",
     "answer": ""
   },
   "10": {
     "question": "Tell me about a situation when you were responsible for project planning. Did everything go according to plan? If not, then why and what kind of counteractions did you have to take?",
-    "answer": "Working on updating old legacy code, and didn't set proper variable naming conventions for the project. This resulted in us breaking the website entirely, but I noticed the error, adjusted, and as a result I created a system to prevent that from happenening again."
+    "answer": "I was working on updating old legacy code, and didn't set proper variable naming conventions for the project. This resulted in us breaking the website entirely, but I noticed the error, adjusted, and as a result I created a system to prevent that from happenening again."
   },
   "11": {
     "question": "Tell me about a situation when you made a mistake at work. What happened exactly and how did you deal with it? What steps did you take to improve the situation?",
-    "answer": ""
+    "answer": "Ok. I still feel bad about this one, but I was asked to work on some code and we were supposed to push to production and be done for the week. Unfortunately in the middle of the weekend the product crashed and we had major issues. Following that we implemented multiple fail-safes, such as not pushing to production on Fridays, and we also began practicing peer-reviewed code"
   },
   "12": {
     "question": "Describe a situation when you worked effectively under pressure. How did you feel when working under pressure? What was going on, and how did you get through it?",
-    "answer": ""
+    "answer": "Thanks to my previous career [ARMY] I'm very used to working under pressure. I don't mind tight deadlines or stressed out co-workers at all. I have encountered clients that have concerns they want addressed immediately, and I always start by reassuring the client that I can address the issue as soon as possible and that I will be doing my best to ensure their success."
   },
   "13": {
     "question": "Tell me about yourself",
-    "answer": ""
+    "answer": "I'm a Software Engineer that started learning Java in the early 2000's. I took a break from programming and spent a decade in the U.S. Army travelling the world and picking up other skills. After transitioning from the Army I began working as a freelance Web Developer, and I'm currently interested in developing my skills even further by working on challenging new problems with intelligent forward-thinking individuals."
   },
   "14": {
     "question": "Tell me about your experience at 100Devs",
-    "answer": ""
+    "answer": "My experience at 100Devs was pretty awesome overall. My primary focus was on education, but I picked up a lot of secondary skills along the way, such as navigating contracts, working directly with clients, and how to work on projects in a group. 100Devs was both incredibly difficult and rewarding."
   },
   "15": {
     "question": "What do you know about our company?",
-    "answer": ""
+    "answer": "I know that your company uses [tech stacks], I know that your product [product] is a powerful tool that does [thing]. I know from talking to [referral] that you guys have a great work environment, with intelligent programmers working together to provide solutions to complex problems."
   },
   "16": {
     "question": "Why do you want to work for us?",
@@ -65,11 +65,11 @@
   },
   "17": {
     "question": "Why are you interested in this opportunity?",
-    "answer": ""
+    "answer": "I'm interested in this opportunity because of the incredible product that your SWE work on. I see the all the great things you guys are doing at [company name] and I love what I see. I'm looking forward for an opportunity to leverage my skills to assist in the creation, maintenance, and improvement of applications here!"
   },
   "18": {
     "question": "Tell me about your dream job? What do you really want to do with your career?",
-    "answer": ""
+    "answer": "My dream job is a place where I can write code, interact with other programmers and their work, and work in a positive/encouraging environment. I love discussing interesting code with others, I very much enjoy seeing how what I write combines with others work to form one singlar powerful product, and I thoroughly enjoy a good challenge. All of these are things I think working here will provide, and having met some of the programmers[referral name here] on the team I am confident I would thrive in this environment."
   },
   "19": {
     "question": "Tell me about a time when you failed.",
@@ -77,14 +77,18 @@
   },
   "20": {
     "question": "What do you read on a regular basis?",
-    "answer": ""
+    "answer": "I often read to relax, and I don't mind reading non-fiction, so I often find myself reading about things in the tech community. From reading about new and emerging tech, to reading about different implementation of old tech, I love it all! In fact, just the other day I was reading an incredible article about the Quake 3 Inverse Square Root algorithm!"
   },
   "21": {
     "question": "What is some critical feedback you've gotten recently?",
-    "answer": ""
+    "answer": "I have gotten some rough feedback about design choices recently. Working directly with clients and oftentimes without a designer leaves a good bit of the aesthetic of things open to interpretation. I have struggled with some of these design choices in the past, but I actually have a few cool web-tools to help me overcome these limitations now, like palette generators and I took a brief course in web-page design to shore this weakness up."
   },
   "22": {
     "question": "Do you have any questions?",
     "answer": ""
+  },
+  "rip": {
+    "question": "There seems to be some kind of issue",
+    "answer": "Please notify admin at mingleeng@gmail.com"
   }
 }
