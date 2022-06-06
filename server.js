@@ -19,11 +19,11 @@ app.get('/api/:category/:item', (request, response) => {
 
   if (item === 'all') {
     if (category === 'car') {
-      let dbPath = require('./CAR.json');
-      response.json(dbPath);
+      let CAR = require('./CAR.json');
+      response.json(CAR);
     }
-  }
-  if (category === 'car') {
+  } else if (category === 'car') {
+    let CAR = require('./CAR.json');
     if (CAR[item]) response.json(CAR[item]);
     else response.json(CAR.rip);
   } else response.json(CAR.rip);

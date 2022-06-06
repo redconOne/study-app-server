@@ -1,7 +1,7 @@
 {
   "1": {
     "question": "Give me an example of the project or initiative that you started on your own. It can be a non-business one. What prompted you to get started?",
-    "answer": "On one of my earlier group projects concerning APIs we were having difficulty accessing the specific API in the way that we wanted. Many in the group were wanting to move on to a different API that wouldn't have provided the same information, but I ended up taking the intiative to contact the team workin on the API and was able to get guidance. Funnily enough, not only did I get our project working, but the API documentation was changed to cover cases like ours, so they ended up better off for it as well."
+    "answer": "CAUSE - On one of my earlier group projects concerning APIs we were having difficulty accessing the specific API in the way that we wanted. \n ACTION - I took the intiative to contact the team workin on the API and was able to get guidance. \n RESULT - Funnily enough, not only did I get our project working, but the API documentation was changed to cover cases like ours, so they ended up better off for it as well."
   },
   "2": {
     "question": "Tell me about a time you had to work on several projects at once. How did you handle it?",
@@ -25,7 +25,7 @@
   },
   "7": {
     "question": "Give an example of an important project goal you reached and how you achieved it.",
-    "answer": "One of my most important project goals was creating and building my first MERN app. It was a goal from the very start of my programming journey, and it took countless hours of independent research to achieve. This often included reaching out in the tech community and asking for guidance from my mentors. "
+    "answer": "One of my most important project goals was creating and building my first MERN app. It was a goal from the very start of my programming journey, and it took countless hours of independent research to achieve. This often included reaching out in the tech community and asking for guidance from my mentors. Ultimately I created [one of your amazing apps]"
   },
   "8": {
     "question": "Describe a situation in which you experienced difficulty in getting others to accept your ideas.",
@@ -33,19 +33,19 @@
   },
   "9": {
     "question": "Tell me about a situation when you were responsible for project planning. Did everything go according to plan? If not, then why and what kind of counteractions did you have to take?",
-    "answer": ""
+    "answer": "I was in charge of a group working on updating old legacy code, and it didn't all work as I initially planned, and I didn't set proper variable naming conventions for the project. This resulted in us having a good amount of unforseen errors and bugs, but after the errors were noticed I worked to create a coding convention for our group so we could all work together with the same standards."
   },
   "10": {
-    "question": "Tell me about a situation when you were responsible for project planning. Did everything go according to plan? If not, then why and what kind of counteractions did you have to take?",
-    "answer": "I was working on updating old legacy code, and didn't set proper variable naming conventions for the project. This resulted in us breaking the website entirely, but I noticed the error, adjusted, and as a result I created a system to prevent that from happenening again."
+    "question": "Tell me about a situation when you made a mistake at work. What happened exactly and how did you deal with it? What steps did you take to improve the situation?",
+    "answer": "While I was creating a webpage for a client I accidentally created a link that sent you to a the wrong page. I had to contact the client to notify them that we needed to make a quick change. Fortunately the turnaround was incredibly quick, and as a new business they hadn't sent anyone to their new website yet. I learned to always double-check interactable things like links to ensure not only that they are working, but that they are working as intended."
   },
   "11": {
-    "question": "Tell me about a situation when you made a mistake at work. What happened exactly and how did you deal with it? What steps did you take to improve the situation?",
-    "answer": "Ok. I still feel bad about this one, but I was asked to work on some code and we were supposed to push to production and be done for the week. Unfortunately in the middle of the weekend the product crashed and we had major issues. Following that we implemented multiple fail-safes, such as not pushing to production on Fridays, and we also began practicing peer-reviewed code"
+    "question": "Tell me about a time when you worked with someone who was not completing his or her share of the work. How did you handle the situation? Did you discuss your concern with your coworker? With your manager? If yes, how did your coworker respond to your concern? What was your manager's response?",
+    "answer": "."
   },
   "12": {
     "question": "Describe a situation when you worked effectively under pressure. How did you feel when working under pressure? What was going on, and how did you get through it?",
-    "answer": "Thanks to my previous career [ARMY] I'm very used to working under pressure. I don't mind tight deadlines or stressed out co-workers at all. I have encountered clients that have concerns they want addressed immediately, and I always start by reassuring the client that I can address the issue as soon as possible and that I will be doing my best to ensure their success."
+    "answer": "I often have to work with multiple clients simultaneously and under tight deadlines. This can lead to a good deal of pressure as every client wants their concerns addressed immediately. I always start by assuring the client that they are a priority and that I will fix their issues as soon as possible."
   },
   "13": {
     "question": "Tell me about yourself",
@@ -53,7 +53,7 @@
   },
   "14": {
     "question": "Tell me about your experience at 100Devs",
-    "answer": "My experience at 100Devs was pretty awesome overall. My primary focus was on education, but I picked up a lot of secondary skills along the way, such as navigating contracts, working directly with clients, and how to work on projects in a group. 100Devs was both incredibly difficult and rewarding."
+    "answer": "My experience at 100Devs was pretty amazing overall. My primary focus was on learning coding, but I picked up a lot of secondary skills along the way, such as navigating contracts, working directly with clients, and how to work on projects in a group using Agile methodology. 100Devs was both incredibly difficult and rewarding."
   },
   "15": {
     "question": "What do you know about our company?",
@@ -65,27 +65,27 @@
   },
   "17": {
     "question": "Why are you interested in this opportunity?",
-    "answer": "I'm interested in this opportunity because of the incredible product that your SWE work on. I see the all the great things you guys are doing at [company name] and I love what I see. I'm looking forward for an opportunity to leverage my skills to assist in the creation, maintenance, and improvement of applications here!"
+    "answer": "I'm interested in this opportunity because of the incredible product that your Software Engineers work on. I see the all the great things you guys are doing at [company name] and I love what I see. I'm looking forward for an opportunity to leverage my skills to assist in the creation, maintenance, and improvement of applications here!"
   },
   "18": {
     "question": "Tell me about your dream job? What do you really want to do with your career?",
-    "answer": "My dream job is a place where I can write code, interact with other programmers and their work, and work in a positive/encouraging environment. I love discussing interesting code with others, I very much enjoy seeing how what I write combines with others work to form one singlar powerful product, and I thoroughly enjoy a good challenge. All of these are things I think working here will provide, and having met some of the programmers[referral name here] on the team I am confident I would thrive in this environment."
+    "answer": "CAUSE - My dream job is a place where I can write code, interact with other programmers and their work, and work in a positive/encouraging environment. \n ACTION - I love discussing code with others, combining my work with other code to form one singlar powerful product, and I thoroughly enjoy a good challenge. \n RESULT - All of these are things I think working here will provide, and having met some of the programmers[referral name here] on the team I am confident I would thrive in this environment."
   },
   "19": {
     "question": "Tell me about a time when you failed.",
-    "answer": ""
+    "answer": "CAUSE - Ok. I still feel bad about this one, but I was asked to work on some code and we were supposed to push to production and be done for the week. \n ACTION - Unfortunately in the middle of the weekend the product crashed and we had major issues. \n RESULT - Following that we implemented fail-safes, such as not pushing to production on Fridays, and we also began practicing peer-reviewed code"
   },
   "20": {
     "question": "What do you read on a regular basis?",
-    "answer": "I often read to relax, and I don't mind reading non-fiction, so I often find myself reading about things in the tech community. From reading about new and emerging tech, to reading about different implementation of old tech, I love it all! In fact, just the other day I was reading an incredible article about the Quake 3 Inverse Square Root algorithm!"
+    "answer": "CAUSE - I read to relax, so I often find myself reading about things in the tech community. \n ACTION - From reading about new and emerging tech, to reading about different implementation of old tech, I love it all! \n RESULT - In fact, just the other day I was reading an incredible article about [topic here]{the Quake 3 Inverse Square Root algorithm}!"
   },
   "21": {
     "question": "What is some critical feedback you've gotten recently?",
-    "answer": "I have gotten some rough feedback about design choices recently. Working directly with clients and oftentimes without a designer leaves a good bit of the aesthetic of things open to interpretation. I have struggled with some of these design choices in the past, but I actually have a few cool web-tools to help me overcome these limitations now, like palette generators and I took a brief course in web-page design to shore this weakness up."
+    "answer": "CAUSE - I have gotten some feedback about improving soeme design choices recently. Working directly with clients without a designer on hand leaves some of the aesthetics open to interpretation. <br> ACTION - I have struggled with some of these design choices in the past, but I actually have a few cool web-tools to help me overcome these limitations now, like palette generators, and I took a brief course in web-page design to shore this weakness up."
   },
   "22": {
     "question": "Do you have any questions?",
-    "answer": ""
+    "answer": "Save questions for after you get an offer! Be glad! You've got this and you're making great strides towards success!"
   },
   "rip": {
     "question": "There seems to be some kind of issue",
