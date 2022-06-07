@@ -1,15 +1,15 @@
 {
   "1": {
     "question": "Give me an example of the project or initiative that you started on your own. It can be a non-business one. What prompted you to get started?",
-    "answer": "CAUSE - On one of my earlier group projects concerning APIs we were having difficulty accessing the specific API in the way that we wanted. \n ACTION - I took the intiative to contact the team workin on the API and was able to get guidance. \n RESULT - Funnily enough, not only did I get our project working, but the API documentation was changed to cover cases like ours, so they ended up better off for it as well."
+    "answer": "On one of my earlier group projects using RESTful APIs we were having difficulty accessing the specific API in the way that we wanted. I took the intiative to contact the team workin on the API and was able to get guidance. Funnily enough, not only did I get our project working, but the API documentation was changed to cover cases like ours, so they ended up better off for it as well."
   },
   "2": {
     "question": "Tell me about a time you had to work on several projects at once. How did you handle it?",
-    "answer": "When freelancing its not uncommon to work on numberous client projects simultaneously. I learned early on that it was best to break everything down into sub-tasks and set them to different priorities: low, mid, or high. I also learned to get a solid understanding of expected deadlines, which also factors in to the priority. "
+    "answer": "When freelancing its not uncommon to work on numberous client projects simultaneously. I learned early on that it was best to break everything down into sub-tasks and set them to different priorities: low, mid, or high. I now have a much better understanding of expected deadlines, and how to assign priorities to tasks and sub-tasks with that in mind."
   },
   "3": {
     "question": "Describe a situation in which you felt you had not communicated well enough. What did you do? How did you handle it?",
-    "answer": "A short while ago I was given task to complete, and I provided the requested product I was informed that I hadn't done what was required. I had to start over, asking what information was provided, what I was to do with that data, and then what data I needed to return. Now, to ensure complete understanding, even if I think I know exactly what is being asked of me I always clarify the task at hand."
+    "answer": "When I first began working with other developers I was told to create a pretty basic function, but unfortunately I misunderstood what the function was supposed to do. I had to ask the Tech Lead for clarification, but now, to ensure complete understanding, even if I think I know exactly what is being asked of me I always verify."
   },
   "4": {
     "question": "Tell me about when you had to deal with conflict within your team. How was the conflict solved? How did you handle that? How would you deal with it now? ",
@@ -33,7 +33,7 @@
   },
   "9": {
     "question": "Tell me about a situation when you were responsible for project planning. Did everything go according to plan? If not, then why and what kind of counteractions did you have to take?",
-    "answer": "I was in charge of a group working on updating old legacy code, and it didn't all work as I initially planned, and I didn't set proper variable naming conventions for the project. This resulted in us having a good amount of unforseen errors and bugs, but after the errors were noticed I worked to create a coding convention for our group so we could all work together with the same standards."
+    "answer": "I was in charge of a group working on updating old legacy code, and it didn't all work as I initially planned as I didn't set proper variable naming conventions for the project. This resulted in us having a good amount of unforseen errors and bugs, but after the errors were noticed I worked to create a coding convention for our group so we could all work together with the same standards."
   },
   "10": {
     "question": "Tell me about a situation when you made a mistake at work. What happened exactly and how did you deal with it? What steps did you take to improve the situation?",
@@ -41,7 +41,7 @@
   },
   "11": {
     "question": "Tell me about a time when you worked with someone who was not completing his or her share of the work. How did you handle the situation? Did you discuss your concern with your coworker? With your manager? If yes, how did your coworker respond to your concern? What was your manager's response?",
-    "answer": "."
+    "answer": "I've noticed in past experiences that when people aren't completing their share of work it usually isn't out of laziness, but rather just a lack of direction or understanding. Any time I notice a coworker under-performing in such a manner I engage with them in a short discussion about what they're working on and focus on the task. A better understanding of how to address an issue almost always results in increased performance."
   },
   "12": {
     "question": "Describe a situation when you worked effectively under pressure. How did you feel when working under pressure? What was going on, and how did you get through it?",
@@ -69,19 +69,19 @@
   },
   "18": {
     "question": "Tell me about your dream job? What do you really want to do with your career?",
-    "answer": "CAUSE - My dream job is a place where I can write code, interact with other programmers and their work, and work in a positive/encouraging environment. \n ACTION - I love discussing code with others, combining my work with other code to form one singlar powerful product, and I thoroughly enjoy a good challenge. \n RESULT - All of these are things I think working here will provide, and having met some of the programmers[referral name here] on the team I am confident I would thrive in this environment."
+    "answer": "My dream job is a place where I can write code, interact with other programmers and their work, and work in a positive/encouraging environment. I love discussing code with others, combining my work with other code to form one singlar powerful product, and I thoroughly enjoy a good challenge. All of these are things I think working here will provide, and having met some of the programmers[referral name here] on the team I am confident I would thrive in this environment."
   },
   "19": {
     "question": "Tell me about a time when you failed.",
-    "answer": "CAUSE - Ok. I still feel bad about this one, but I was asked to work on some code and we were supposed to push to production and be done for the week. \n ACTION - Unfortunately in the middle of the weekend the product crashed and we had major issues. \n RESULT - Following that we implemented fail-safes, such as not pushing to production on Fridays, and we also began practicing peer-reviewed code"
+    "answer": "Ok. I still feel bad about this one, but I was asked to work on some code and we were supposed to push to production and be done for the week. Unfortunately in the middle of the weekend the product crashed and we had major issues. Following that we implemented fail-safes, such as not pushing to production on Fridays, and we also began practicing peer-reviewed code"
   },
   "20": {
     "question": "What do you read on a regular basis?",
-    "answer": "CAUSE - I read to relax, so I often find myself reading about things in the tech community. \n ACTION - From reading about new and emerging tech, to reading about different implementation of old tech, I love it all! \n RESULT - In fact, just the other day I was reading an incredible article about [topic here]{the Quake 3 Inverse Square Root algorithm}!"
+    "answer": "I read to relax, so I often find myself reading about things in the tech community. From reading about new and emerging tech, to reading about different implementation of old tech, I love it all! In fact, just the other day I was reading an incredible article about [topic here]{the Quake 3 Inverse Square Root algorithm}!"
   },
   "21": {
     "question": "What is some critical feedback you've gotten recently?",
-    "answer": "CAUSE - I have gotten some feedback about improving soeme design choices recently. Working directly with clients without a designer on hand leaves some of the aesthetics open to interpretation. <br> ACTION - I have struggled with some of these design choices in the past, but I actually have a few cool web-tools to help me overcome these limitations now, like palette generators, and I took a brief course in web-page design to shore this weakness up."
+    "answer": "I have gotten some feedback about improving soeme design choices recently. Working directly with clients without a designer on hand leaves some of the aesthetics open to interpretation. I began using new tools to help me overcome these issues, like palette generators, and I took a brief course in web-page design to shore this weakness up."
   },
   "22": {
     "question": "Do you have any questions?",

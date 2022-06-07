@@ -1,0 +1,46 @@
+{
+  "1": {
+    "question": "What does a docytype do?",
+    "answer": ""
+  },
+  "2": {
+    "question": "How do you serve a page with content in multiple languages?",
+    "answer": ""
+  },
+  "3": {
+    "question": "What kind of things must you be wary of when designing or developing for multilingual sites?",
+    "answer": ""
+  },
+  "4": {
+    "question": "What are 'data' attributes good for?",
+    "answer": ""
+  },
+  "5": {
+    "question": "Consider HTML5 as an open web platform. What are the building blocks of HTML5?",
+    "answer": ""
+  },
+  "6": {
+    "question": "Describe the difference between a cookie, sessionStorage, and localStorage.",
+    "answer": ""
+  },
+  "7": {
+    "question": "Describe the difference between <script>, <script async>, and <script defer>",
+    "answer": ""
+  },
+  "8": {
+    "question": "Why is it generally a good idea to position CSS <link> between <head></head> and JS <script> just before </body>? Do you know any exceptions?",
+    "answer": ""
+  },
+  "9": {
+    "question": "What is progressive rendering?",
+    "answer": ""
+  },
+  "10": {
+    "question": "Why would you use a 'srcset' attribute in an image tag? Explain the process the browser uses when evaluating the content of this attribute.",
+    "answer": ""
+  },
+  "11": {
+    "question": "Have you used different HTML templating languages before?",
+    "answer": ""
+  }
+}

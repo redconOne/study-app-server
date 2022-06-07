@@ -1,0 +1,126 @@
+{
+  "1": {
+    "question": "What is CSS selector specificity and how does it work?",
+    "answer": "1"
+  },
+  "2": {
+    "question": "What's the difference between 'resetting' and 'normalizing' CSS? Which would you choose, and why?",
+    "answer": ""
+  },
+  "3": {
+    "question": "Describe floats and how they work.",
+    "answer": ""
+  },
+  "4": {
+    "question": "Describe z-index and how stacking context is formed.",
+    "answer": ""
+  },
+  "5": {
+    "question": "Describe BFC (Block Formatting Context) and how it works.",
+    "answer": ""
+  },
+  "6": {
+    "question": "What are the various clearing techniques and which is appropriate for what context?",
+    "answer": ""
+  },
+  "7": {
+    "question": "Explain CSS sprites, and how you would implement them on a page or site.",
+    "answer": ""
+  },
+  "8": {
+    "question": "How would you approach fixing browser-specific styling issues.",
+    "answer": ""
+  },
+  "9": {
+    "question": "How do you server your pages for feature-constrained browsers? What techniques/processes do you use?",
+    "answer": ""
+  },
+  "10": {
+    "question": "What are the different ways to visually hide content (and make it available only for screen readers)?",
+    "answer": ""
+  },
+  "11": {
+    "question": "Have you ever used a grid system, and if so, what do you prefer?",
+    "answer": ""
+  },
+  "12": {
+    "question": "Have you used or implemented media queries or mobile specific layouts/CSS?",
+    "answer": ""
+  },
+  "13": {
+    "question": "Are you familiar with styling SVG?",
+    "answer": ""
+  },
+  "14": {
+    "question": "Can you give an example of an @media property other than screen?",
+    "answer": ""
+  },
+  "15": {
+    "question": "What are some of the 'gotchas' for writting efficient CSS?",
+    "answer": ""
+  },
+  "16": {
+    "question": "What are the advantages/disadvantages of using CSS preprocessors?",
+    "answer": ""
+  },
+  "17": {
+    "question": "Describe what you like and dislike about the CSS preprocessors you have used.",
+    "answer": ""
+  },
+  "18": {
+    "question": "How would you implement a web design comp that uses non-standard fonts?",
+    "answer": ""
+  },
+  "19": {
+    "question": "Explain how a browser determines what elements Match a CSS selector.",
+    "answer": ""
+  },
+  "20": {
+    "question": "Describe pseudo-elements and discuss what they are used for.",
+    "answer": ""
+  },
+  "21": {
+    "question": "Explain your understanding of the box model and how you would tell the browser in CSS to render your layout in different box models.",
+    "answer": ""
+  },
+  "22": {
+    "question": "What does { box-sizing: border-box; } do? What are its advantages?",
+    "answer": ""
+  },
+  "23": {
+    "question": "What is the CSS display property and can you give a few examples of its use?",
+    "answer": ""
+  },
+  "24": {
+    "question": "What's the difference between inline and inline-block?",
+    "answer": ""
+  },
+  "25": {
+    "question": "What's the difference between a relative, fixed, absolute, and statically positioned element?",
+    "answer": ""
+  },
+  "26": {
+    "question": "What existing CSS frameworks have you used locally, or in production? How would you change/improve them?",
+    "answer": ""
+  },
+  "27": {
+    "question": "Have you played around with the new CSS Flexbox or Grid specs?",
+    "answer": ""
+  },
+  "28": {
+    "question": "Can you explain the difference between coding a web site to be responsive versus using a mobile-first strategy?",
+    "answer": ""
+  },
+  "29": {
+    "question": "How is responsive design different from adaptive design?",
+    "answer": ""
+  },
+  "30": {
+    "question": "Have you ever worked with retina graphics? If so, when and what techniques did you use?",
+    "answer": ""
+  },
+  "31": {
+    "question": "Is there any reason you'd want to use translate() instead of absolute positioning, or vice-versa? And why?",
+    "answer": ""
+  }
+}
