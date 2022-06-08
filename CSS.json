@@ -122,5 +122,9 @@
   "31": {
     "question": "Is there any reason you'd want to use translate() instead of absolute positioning, or vice-versa? And why?",
     "answer": ""
+  },
+  "rip": {
+    "question": "There seems to be some kind of issue",
+    "answer": "Please notify admin at mingleeng@gmail.com"
   }
 }

@@ -16,17 +16,30 @@ app.get('/api/:category/:item', (request, response) => {
   const category = request.params.category.toLowerCase();
   const item = request.params.item.toLowerCase();
   console.log(category, item);
+  let currentFile;
+  switch (true) {
+    case category === 'car':
+      currentFile = require('./CAR.json');
+      break;
+    case category === 'html':
+      currentFile = require('./HTML.json');
+      break;
+    case category === 'css':
+      currentFile = require('./CSS.json');
+      break;
+  }
 
-  if (item === 'all') {
-    if (category === 'car') {
-      let CAR = require('./CAR.json');
-      response.json(CAR);
-    }
-  } else if (category === 'car') {
-    let CAR = require('./CAR.json');
-    if (CAR[item]) response.json(CAR[item]);
-    else response.json(CAR.rip);
-  } else response.json(CAR.rip);
+  console.log(category, item, typeof item);
+  switch (true) {
+    case item === 'all':
+      response.json(currentFile);
+      break;
+    case !currentFile[item]:
+      response.status(404).end();
+      break;
+    default:
+      response.json(currentFile[item]);
+  }
 });
 
 app.listen(PORT, () => {

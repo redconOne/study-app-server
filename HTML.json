@@ -42,5 +42,9 @@
   "11": {
     "question": "Have you used different HTML templating languages before?",
     "answer": ""
+  },
+  "rip": {
+    "question": "There seems to be some kind of issue",
+    "answer": "Please notify admin at mingleeng@gmail.com"
   }
 }
